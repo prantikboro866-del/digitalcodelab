@@ -69,3 +69,5 @@ Open the **Run & Debug** panel (`Ctrl + Shift + D` or `F5`) and select:
 npm run build
 ```
 Generates production assets in `dist/` with relative paths (`base: './'`), suitable for Apache (`htdocs`), GitHub Pages, or static hosting.
+
+https://digitalcodelab.lovable.app/
